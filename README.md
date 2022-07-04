@@ -10,7 +10,7 @@ Data Visualization Exercise
 4_Dashboard_2.ipynb
 
 
-#Objetivos
+### Objetivos
 
 1.- Estado que más vende (3_Dashboard_1.ipynb)
 
