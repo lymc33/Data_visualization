@@ -1,5 +1,5 @@
-### Data_visualization
-## Data Visualization Exercise
+## Data_visualization
+### Data Visualization Exercise
 
 1_DBs_visualitation.ipynb
 
