@@ -7,6 +7,9 @@
 
 3.- Directorio Load = Directorio de .png's de graficas y tablas 
 
+4.- Directorio Transform = app.py para crear dashboard y app_final.py para Dashboard final 
+
+5.- Directorio Tableau failed = Flujo de tableu pro e imagenes evidencia de que no se puede usar
 
 ### Notebooks
 
