@@ -10,6 +10,10 @@
 
 ### Objetivos
 
+ 1_DBs_visualitation.ipynb :
+    - Análisis explorativo
+    * Se descartan dos df al final
+
 1.- Estado que más vende (3_Dashboard_1.ipynb)
 2.- Tienda que más vende (4_Dashboard_2.ipynb)
 3.- Categoria y departamento que más vende (5_Dashboard_3.ipynb)
