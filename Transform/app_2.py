@@ -29,13 +29,13 @@ def b64_image(image_filename):
 app = Dash(__name__)
 
 app.layout = html.Div([
-    html.H1('Dash Puppies'),
+    html.H1('Dashboard'),
 
     html.Img(src=image_path),                          # passing the direct file path
     html.Img(src=app.get_asset_url('assets/1_Venta_en_cantidad_por_estado.jpg')),    # usign get_asset_url function
    #html.Img(src=dash.get_asset_url('my-image.png'))    Or with newer Dash v2.2.0
     html.Img(src=pil_img),                             # using the pillow image variable
-    html.Img(src=b64_image(image_path)),               # using base64 to encode and decode the image file
+    # html.Img(src=b64_image(image_path)),               # using base64 to encode and decode the image file
 ])
 
 if __name__ == "__main__":
