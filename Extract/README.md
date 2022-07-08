@@ -17,7 +17,6 @@ Se generan 5 csv almacenados en este directorio
 
  - sell_prices.csv
 
-Los marcados con # se omitieron por el tamaño del csv en GitHub, 
-
+Los marcados con # se omitieron por el tamaño del csv en GitHub
 
 ### - LYMC
