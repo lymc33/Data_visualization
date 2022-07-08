@@ -1,15 +1,23 @@
-# Extract
- Data Visualization Exercise
+## Extract
+### Data Visualization Exercise
 
-*Download data from:
-https://www.kaggle.com/c/m5-forecasting-accuracy
+Datos descargados de:
 
-5 files created:
+ https://www.kaggle.com/c/m5-forecasting-accuracy
 
-/Users/yairmartinez/Documents/GitHub/Data_visualization/Extract/calendar.csv #
-/Users/yairmartinez/Documents/GitHub/Data_visualization/Extract/sales_train_evaluation.csv
-/Users/yairmartinez/Documents/GitHub/Data_visualization/Extract/sales_train_validation.csv
-/Users/yairmartinez/Documents/GitHub/Data_visualization/Extract/sample_submission.csv #
-/Users/yairmartinez/Documents/GitHub/Data_visualization/Extract/sell_prices.csv
+Se generan 5 csv almacenados en este directorio
 
-Only 2 can be uploaded to Github because size, marked with final hashtag 
+ - calendar.csv #
+
+ - sales_train_evaluation.csv
+
+ - sales_train_validation.csv
+
+ - sample_submission.csv # 
+
+ - sell_prices.csv
+
+Los marcados con # se omitieron por el tamaño del csv en GitHub, 
+
+
+### - LYMC
